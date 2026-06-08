@@ -1,1 +1,8 @@
-
+pandas
+numpy
+scikit-learn
+sentence-transformers
+flask
+jupyter
+matplotlib
+ipykernel
